@@ -1,2 +1,8 @@
-# text_mining
-this project aims to develop a sentiment analysis model using a random forest model. And focuses on text preprocessing
+# Text Mining (word embedding implementation)
+
+This project aims to implement word embeddings such as:
+- BOW (Bag-of-Words)
+- TF-IDF
+- Word2Vec
+- GloVe
+- FastText
